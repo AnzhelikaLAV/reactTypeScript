@@ -1,0 +1,12 @@
+.counter-component {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  width: 300px;
+  padding: 20px;
+  background: rgb(204, 203, 218);
+}
+
+.counter-result {
+  font-size: 24px;
+}
