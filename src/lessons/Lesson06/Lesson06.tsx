@@ -118,7 +118,7 @@ function Lesson06() {
     //mixArray[4] = 'red' //если удалили строку, то и не можем позже добавить тк остался number, boolean, null
 
     
-    //11. Union типы позволяют обьединять несколько типов
+    //11. Union типы позволяют объединять несколько типов
 
     let numStr: string | number | number[] = 2;
 
